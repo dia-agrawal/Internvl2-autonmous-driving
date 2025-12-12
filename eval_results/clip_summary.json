@@ -1,0 +1,42 @@
+{
+  "files": {
+    "eval_results/metrics_bddk_ft.jsonl": {
+      "count": 5000,
+      "mean": 27.070672703552248,
+      "median": 27.272602081298828,
+      "std": 3.125772802005804,
+      "min": 15.392963409423828,
+      "max": 38.36502456665039
+    },
+    "eval_results/metrics_bddk_pretrained.jsonl": {
+      "count": 10000,
+      "mean": 28.354174968147277,
+      "median": 28.403077125549316,
+      "std": 2.7086427301774867,
+      "min": 18.25728416442871,
+      "max": 42.7420654296875
+    },
+    "eval_results/metrics_drivelm_ft.jsonl": {
+      "count": 4794,
+      "mean": 31.87333200253394,
+      "median": 31.879857063293457,
+      "std": 2.9444549532543705,
+      "min": 19.418106079101562,
+      "max": 44.540550231933594
+    },
+    "eval_results/metrics_drivelm_pretrained.jsonl": {
+      "count": 4794,
+      "mean": 23.168267136471542,
+      "median": 22.91854190826416,
+      "std": 2.815798165167931,
+      "min": 14.916666030883789,
+      "max": 35.0993766784668
+    }
+  },
+  "ranking_by_mean": [
+    "eval_results/metrics_drivelm_ft.jsonl",
+    "eval_results/metrics_bddk_pretrained.jsonl",
+    "eval_results/metrics_bddk_ft.jsonl",
+    "eval_results/metrics_drivelm_pretrained.jsonl"
+  ]
+}
