@@ -56,4 +56,8 @@ This work builds upon the official InternVL repository:
 
 InternVL:
 https://github.com/OpenGVLab/InternVL
-Other referenced works are cited in the accompanying CVPR-style paper.
+Other referenced works are cited in the accompanying 
+
+**Setup** 
+Use the requirement.txt to set up your enviornment. We are using Python 3.10
+
