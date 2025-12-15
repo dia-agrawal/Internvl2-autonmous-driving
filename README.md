@@ -61,3 +61,5 @@ Other referenced works are cited in the accompanying
 **Setup** 
 Use the requirement.txt to set up your enviornment. We are using Python 3.10
 
+**To get the data and jsonl files, you have to look through the data load script and others**
+
