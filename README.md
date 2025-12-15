@@ -46,6 +46,8 @@ Output metrics:
 Cosine similarity (per-sample + dataset mean)
 Per-dataset statistical summary
 
+**Trained Model** https://drive.google.com/drive/folders/1VUlB1nOVD_DAi0iVhzj_SFVjNltgU92v?usp=sharing
+
 Model comparison plots
 
 This approach gives grounded, reproducible measurements even when labels are noisy, which is common in driving datasets.
